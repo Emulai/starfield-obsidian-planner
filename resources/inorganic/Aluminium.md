@@ -1,0 +1,6 @@
+---
+short: Al
+rarity: Common
+mass: "0.5"
+baseValue: "7"
+---

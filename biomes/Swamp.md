@@ -1,0 +1,1 @@
+Resources:: [[Water]], [[Lead]], [[Tungsten]]

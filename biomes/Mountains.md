@@ -1,0 +1,1 @@
+Resources:: [[Lead]], [[Tungsten]], [[Iron]]

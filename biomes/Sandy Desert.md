@@ -1,0 +1,1 @@
+Resources:: [[Chlorine]], [[Vanadium]], [[Uranium]], [[Cobalt]]
