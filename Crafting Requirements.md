@@ -1,3 +1,8 @@
+> [!note]
+> You can right-click the generated diagram to export it, this can help if the diagram is too small and hard to read. Alternatively, you can disable the maximum line length in 
+> `Settings > Editor > Display > Readable Line Length`
+> This will make ALL notes take the entire horizontal width
+
 Goal:: [[Landing Pad with Shipbuilder]]
 
 ```dataviewjs
