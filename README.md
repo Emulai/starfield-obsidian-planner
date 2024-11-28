@@ -54,8 +54,7 @@ I don't use this heavily, but have found it useful for narrowing down which reso
 
 ![current_resource_production](images/current_resource_production.png)
 ### Plans and Todo
-- Add stars/planets/biomes to the vault. I'm experimenting with connecting resources to the biomes they *can* appear in, as well as biomes to the planets they *do* appear in. Ideally this should help with long-term planning of outpost chains
-  
+- Add stars/planets/biomes to the vault. I'm experimenting with connecting resources to the biomes they *can* appear in, as well as biomes to the planets they *do* appear in. Ideally this should help with long-term planning of outpost chains  
   This is impractical to do manually, with 1000 stars and some multiple more planets, but I've been experimenting with [xEdit](https://github.com/TES5Edit/TES5Edit) to extract the information automatically. Long term this might result in a custom app to process this info rather than using Obsidian, but that remains to be seen
 - Additional functionality in [Available Crafting](available%20crafting.md) to show craftables that can be built with a given resource. This may end up as it's own note
 - Have individual tables in [Crafting Requirements](crafting%20requirements.md) for each goal's resources
