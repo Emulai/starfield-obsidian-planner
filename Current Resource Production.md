@@ -21,9 +21,9 @@ function getType(folder) {
 }
 
 function sort(a, b) {
-    var nameA = a.file.name.toUpperCase();
-    var nameB = b.file.name.toUpperCase();
-    return (nameA < nameB) ? -1 : (nameA > nameB) ? 1 : 0;
+	var nameA = a.file.name.toUpperCase();
+	var nameB = b.file.name.toUpperCase();
+	return (nameA < nameB) ? -1 : (nameA > nameB) ? 1 : 0;
 }
 
 producedResources.push(...resourceToArray(organicIn));

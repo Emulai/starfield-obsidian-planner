@@ -13,9 +13,9 @@ const entries = [];
 const totalResources = {};
 
 function sort(a, b) {
-    var nameA = a.name.toUpperCase();
-    var nameB = b.name.toUpperCase();
-    return (nameA < nameB) ? -1 : (nameA > nameB) ? 1 : 0;
+	var nameA = a.name.toUpperCase();
+	var nameB = b.name.toUpperCase();
+	return (nameA < nameB) ? -1 : (nameA > nameB) ? 1 : 0;
 }
 
 function recurseResources(component, parentName, multiple) {
@@ -74,7 +74,6 @@ const resourceArray = Object.entries(totalResources).map(r => {
 });
 
 graph += '```';
-console.log(graph);
 dv.paragraph(graph);
 dv.table(
 	['Resource', 'Total #'],

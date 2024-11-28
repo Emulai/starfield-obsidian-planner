@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a8b6789807ab0f",
+        "id": "6013160993d00b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "5c92ab13258305b5",
+            "id": "291b0464ec97d4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Available Crafting.md",
+                "file": "Crafting Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Available Crafting"
-            }
-          },
-          {
-            "id": "f0fcb5e7099f156b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Resource Production.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Current Resource Production"
-            }
-          },
-          {
-            "id": "1927e9bc90dc8e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Available Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Available Crafting"
+              "title": "Crafting Requirements"
             }
           }
         ]
@@ -190,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c92ab13258305b5",
+  "active": "291b0464ec97d4b7",
   "lastOpenFiles": [
-    "Current Resource Production.md",
-    "Welcome.md",
-    "Crafting Requirements.md",
     "Available Crafting.md",
+    "Current Resource Production.md",
+    "Crafting Requirements.md",
+    "Welcome.md",
     "README.md",
     "biomes/Rocky Desert.md",
     "biomes/Sandy Desert.md",
