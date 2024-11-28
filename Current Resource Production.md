@@ -1,3 +1,6 @@
+> [!info]
+> This generates a list of all resources *minus* the resources you provide. This currently has minimal use, but can help when surveying a planet to identify what resources you still need to produce
+
 Organic:: 
 Inorganic:: [[Aluminium]], [[Iron]], [[Helium-3]], [[Argon]], [[Water]], [[Beryllium]], [[Titanium]], [[Tungsten]], [[Lead]]
 Fabricated:: [[Adaptive Frame]]
