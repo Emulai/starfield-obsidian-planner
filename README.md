@@ -19,7 +19,7 @@ This visual represents different notes in the vault and how they relate. A dot i
 	- Clone the repository with git, or
 	- Use the "Download Zip" button at the top of this page, under the "Code" button
 		- If you download the zip, be sure to unzip it before the next step with a program like  [7zip](https://www.7-zip.org/)
-2. Install [Obsidian](https://obsidian.com)
+2. Install [Obsidian](https://obsidian.md)
 3. Open the downloaded repository as a new vault
 4. Trust the author
 	- As Obsidian itself warns, you shouldn't enable plugins on a vault that is created by an author you don't trust. I'm a stranger, I'm untrustworthy - however, all the code written by me can be seen in this repository. This allows viewers (like you) to verify that I've not written anything malicious ![trust_author](images/trust_author.png)
